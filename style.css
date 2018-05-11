@@ -1,0 +1,64 @@
+html{
+  background-color: #E5F5F8;
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  color: #6A0F49;
+  font-family:Courier New, monospace;
+}
+
+.container{
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 120px;
+  width: 100%;
+}
+
+.logo-container{
+  width:100%;
+  max-width:200px;
+  height: auto;
+}
+
+.logo{
+  max-width:100%
+}
+
+.container2{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.image1{
+  width: 100%;
+}
+
+.main-photo{
+  display: block;
+  width: 100%;
+  max-width: 1095px;
+  height: auto;
+  margin: auto;
+}
+
+.container3{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.owl{
+  max-width: 100%;
+}
+
+.colombia{
+  max-width: 100%;
+}
